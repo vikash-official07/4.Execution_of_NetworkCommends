@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Program
-###SERVER
+### SERVER
 ```
 import socket
 from pythonping import ping
